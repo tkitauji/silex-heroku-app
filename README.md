@@ -1,2 +1,2 @@
-# PHP-Helloworld
+# silex-heroku-app
 
